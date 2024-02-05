@@ -1,0 +1,202 @@
+.create-an-account1,
+.frame-child46 {
+  position: relative;
+}
+.frame-child46 {
+  width: 50.6px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-lightgreen);
+  box-sizing: border-box;
+  height: 50.6px;
+  z-index: 0;
+}
+.seller {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.user-check-icon {
+  width: 30px;
+  position: absolute;
+  margin: 0 !important;
+  top: 10px;
+  left: 15px;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 2;
+}
+.create-an-account-group,
+.ellipse-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-group {
+  position: relative;
+  gap: 7.01px;
+  font-size: var(--font-size-xs);
+}
+.create-an-account-group {
+  gap: 19.03px;
+}
+.frame-child47 {
+  width: 376.5px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  height: 2px;
+}
+.frame-parent36 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 21.53px;
+}
+.frame-child48 {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro);
+  width: 376.5px;
+  position: relative;
+  height: 37.1px;
+}
+.email-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.01px;
+}
+.add-your-portfolio {
+  position: relative;
+  font-weight: 500;
+  z-index: 0;
+}
+.frame-child49 {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro);
+  width: 376.5px;
+  position: relative;
+  height: 37.1px;
+  z-index: 1;
+}
+.paperclip {
+  width: 26px;
+  position: absolute;
+  margin: 0 !important;
+  top: 29.5px;
+  left: 340.2px;
+  height: 26px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.add-your-portfolio-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 7.01px;
+}
+.write-a-short {
+  position: relative;
+  font-weight: 500;
+}
+.frame-child50 {
+  border: 0;
+  background-color: var(--color-gainsboro);
+  outline: 0;
+  width: 376.5px;
+  position: relative;
+  height: 169.7px;
+}
+.frame-parent38 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.02px;
+}
+.rectangle-input1 {
+  margin: 0;
+  width: 22px;
+  position: relative;
+  height: 22px;
+}
+.terms-of-use1 {
+  color: var(--color-royalblue);
+}
+.rectangle-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 17.52px;
+}
+.button28 {
+  position: relative;
+  font-size: 19.4px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+}
+.button27,
+.frame-parent37 {
+  display: flex;
+  align-items: center;
+}
+.button27 {
+  cursor: pointer;
+  border: 0;
+  padding: 4.0055437088012695px 13.018016815185547px;
+  background-color: var(--color-lightskyblue-200);
+  width: 379px;
+  border-radius: 6.01px;
+  box-shadow: 0 2px 0.9px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-parent37 {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: var(--font-size-mini-1);
+  font-family: var(--body);
+}
+.frame-parent35,
+.sign-up-as-a-seller {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-parent35 {
+  height: 665.3px;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--padding-11xs) var(--padding-4xs);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-sora);
+}
+.sign-up-as-a-seller {
+  border-radius: 8.51px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 3px 8.51px 1px rgba(0, 0, 0, 0.25);
+  height: 743px;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 26.036033630371094px 23px 26.036033630371094px var(--padding-12xl);
+  max-width: 100%;
+  max-height: 100%;
+}
